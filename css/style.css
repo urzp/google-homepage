@@ -1,0 +1,42 @@
+.head {
+   text-align: right;
+    margin-right: 20px;
+    
+    
+}
+
+.head a {
+ text-decoration:none;   
+ color: #000;  
+ font-family: arial,sans-serif;    
+ font-size: 13px;    
+}
+
+#sq {
+        background-image: url('https://ssl.gstatic.com/gb/images/i1_1967ca6a.png');
+        background-size: 528px 68px;
+        background-position: -132px -38px;
+        opacity: .55;
+    
+        box-sizing: border-box;
+        height: 30px;
+        width: 30px;
+        display: inline-block;
+        outline: none;
+        vertical-align: middle;
+}
+
+#enter {
+    display: inline-block;
+    line-height: 28px;
+    padding: 0 12px;
+    border-radius: 2px;
+    border: 1px solid #4285f4;
+    background: #4285f4;
+    color: #fff;
+    
+}
+
+#test{
+    
+}
