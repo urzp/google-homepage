@@ -52,3 +52,37 @@ text-align: center;
     position: relative;
     
 }
+
+.insert{
+    background-color: #fff;
+    border: 1px solid #d9d9d9;
+    border-top-color: none;
+    height: 38px;
+    vertical-align: top;
+    
+    position:absolute;
+    top:37%;
+    left:50%;
+    width: 484px;
+    margin-left:-200px;
+    margin-top:0;    
+    
+    
+}
+
+.gsfi {
+    border: none;
+    padding: 0px;
+    margin: 0px;
+    height: auto;
+    width: 100%;
+    position: absolute;
+    z-index: 6;
+    left: 0px;
+    outline: none;
+    font: 16px arial,sans-serif;
+    line-height: 26px !important;
+    height: 26px !important;
+        
+    
+}
