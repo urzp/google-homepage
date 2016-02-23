@@ -103,16 +103,59 @@ text-align: center;
     margin-top: 10px;
      height: 17px;
      width: 28px;
-    cursor: pointer;
- 
-    
+    cursor: pointer;  
 }
+
 .mic {
  margin-left: 33px;
  margin-top: -21px;
  height: 17px;
   width: 28px;
-  cursor: pointer;
-    
-      
+  cursor: pointer;  
 }
+
+.underboard{
+    width: 485px;
+    height: 50px;
+    position:absolute;
+    left:50%;
+    margin-left:-200px;
+    top:43%;
+  
+}
+
+#f_g{
+  margin-left: 120px;  
+}
+
+#lack{
+ margin-left: 20px;    
+}
+
+._XIi{
+position:absolute;
+top:50%;  
+left:50%;
+margin-left:-130px;
+    
+}
+
+._XIi a{
+text-decoration:none;
+ color: #000;  
+ font-family: arial,sans-serif;    
+ font-size: 13px;       
+}
+
+.letter{
+  color:blue ; 
+}
+
+
+
+
+
+
+
+
+
