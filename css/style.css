@@ -73,9 +73,10 @@ text-align: center;
 .gsfi {
     border: none;
     padding: 0px;
-    margin: 0px;
+    margin-top: -40px;
+    margin-left: 5px;
     height: auto;
-    width: 100%;
+    width: 80%;
     position: absolute;
     z-index: 6;
     left: 0px;
@@ -85,4 +86,33 @@ text-align: center;
     height: 26px !important;
         
     
+}
+
+
+.board {
+   
+   margin-left: auto; 
+    
+    height: 36px;
+    width: 70px;
+   
+}
+
+.key{
+    
+    margin-top: 10px;
+     height: 17px;
+     width: 28px;
+    cursor: pointer;
+ 
+    
+}
+.mic {
+ margin-left: 33px;
+ margin-top: -21px;
+ height: 17px;
+  width: 28px;
+  cursor: pointer;
+    
+      
 }
